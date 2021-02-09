@@ -3,16 +3,15 @@ package automod_legacy
 // This list is in alphabethical order
 // Open a pr or bug me on discord if you want a word added
 var BuiltinSwearWords = map[string]bool{
-	"anal":        true,
-	"anus":        true,
-	"arse":        true,
-	"ass":         true,
-	"b1tch":       true,
-	"ballsack":    true,
-	"bastard":     true,
-	"bitch":       true,
-	"biatch":      true,
-	"blowjob":     true,
+	"anal":        false,
+	"anus":        false,
+	"arse":        false,
+	"ass":         false,
+	"b1tch":       false,
+	"ballsack":    false,
+	"bitch":       false
+	"biatch":      false,
+	"blowjob":     false,
 	"bollock":     true,
 	"bollok":      true,
 	"boner":       true,
